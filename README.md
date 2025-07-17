@@ -1,6 +1,4 @@
-Here's a complete `README.md` file for your Yabatech EduBot project, formatted professionally for GitHub:
 
----
 
 ````markdown
 # 🎓 Yabatech EduBot
